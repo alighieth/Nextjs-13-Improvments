@@ -1,4 +1,4 @@
-Next.js 13 Updates Exploration
+#Next.js 13 Updates Exploration
 This repository serves as a playground for exploring the new updates and features introduced in Next.js 13. If you're interested in experimenting with the latest enhancements in Next.js, this project is a great starting point.
 
 Prerequisites
