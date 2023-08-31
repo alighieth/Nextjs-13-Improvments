@@ -3,8 +3,6 @@
 import { cookies } from "next/headers";
 
 export async function saveToken() {
-  "use server";
-
   cookies().set({
     name: "isLoggedIn",
     value: "true",
